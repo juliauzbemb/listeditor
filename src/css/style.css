@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #999;
+    position: relative;
+}
+
+button {
+    background: none;
+    border: none;
+}
+
+input {
+    border: none;
+}
