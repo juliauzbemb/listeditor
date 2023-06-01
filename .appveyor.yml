@@ -1,6 +1,6 @@
 image: macos-monterey  # образ для сборки
 
-stack: node 14 # окружение
+stack: node 18 # окружение
 
 branches:
   only:
